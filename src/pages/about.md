@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: 'Hi, I''m Felix'
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 template: page
