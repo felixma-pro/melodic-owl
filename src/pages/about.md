@@ -4,9 +4,6 @@ subtitle: This is a short page about us and our work.
 image: images/about.jpg
 template: page
 ---
-
-Hello! I’m Felix—a product designer with an entrepreneurial background living in London. 
-
 My journey into product design started with discovering the human-centred approach for running a personal training business. 
 
 For over eight years, I have developed a strong interest in behavioural psychology and always intrigued to learn more about people. And this allowed me to excel in balancing customer and business needs. 
