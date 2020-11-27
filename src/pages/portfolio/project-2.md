@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Blindlee mobile app
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/blindlee-banner.png
