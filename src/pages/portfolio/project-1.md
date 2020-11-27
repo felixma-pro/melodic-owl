@@ -1,6 +1,6 @@
 ---
 title: GoCardless mobile app
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-05-10'
 thumb_image: /images/My work banner-min 1.png
 image: images/1.jpg
