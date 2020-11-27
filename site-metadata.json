@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Felix Ma",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "type": "action",
