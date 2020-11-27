@@ -17,11 +17,11 @@ I’m now looking for an opportunity to join a company with a collaborative desi
 
 With my desire to take initiatives and learn on the go, I am eager to get my hands dirty in the whole design process and flourish in this exciting path. 
 
-**My north star:**
+###### **My north star:**
 
 I want to pursue design to create a positive impact for people and change things for the better. 
 
-**In my free time:**
+###### **In my free time:**
 
 I enjoy practising Brazilian Ju-Jitsu, bouldering, callisthenics training, travelling to explore new cultures and taste all the food!
 
