@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: GoCardless mobile app
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/My work banner-min 1.png
