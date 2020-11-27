@@ -1,6 +1,6 @@
 ---
 title: 'Hi, I''m Felix'
-subtitle: a product designer with an entrepreneurial background.
+subtitle: "\U0001F468‍\U0001F4BB a product designer with an entrepreneurial background."
 image: images/about.jpg
 template: page
 ---
