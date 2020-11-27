@@ -15,6 +15,14 @@ sections:
         label: Let's talk
         url: /contact
         style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 2
+    view_all_label: ''
+    view_all_url: ''
+    type: section_portfolio
   - type: section_grid
     title: What We Do
     section_id: services
@@ -81,13 +89,5 @@ sections:
         label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 2
-    view_all_label: ''
-    view_all_url: ''
-    type: section_portfolio
 template: advanced
 ---
