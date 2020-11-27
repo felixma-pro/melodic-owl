@@ -2,7 +2,7 @@
     "title": "Stackbit Exto Theme",
     "description": "A portfolio theme with a blog",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "type": "header",
         "title": "Felix Ma",
