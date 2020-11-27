@@ -24,7 +24,7 @@ sections:
     view_all_url: ''
     type: section_portfolio
   - type: section_grid
-    title: What We Do
+    title: My process
     section_id: services
     subtitle: An optional subtitle of the section
     col_number: two
