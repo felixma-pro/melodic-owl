@@ -3,7 +3,9 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: >-
+      Product Designer fascinated with design thinking and behavioural
+      psychology.
     section_id: hero
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
