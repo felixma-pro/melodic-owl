@@ -8,8 +8,8 @@ sections:
       psychology.
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I have a passion for exploring solutions that deliver usable and joyful
+      experiences.
     actions:
       - type: action
         label: Let's talk
