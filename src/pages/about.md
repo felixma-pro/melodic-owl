@@ -5,10 +5,24 @@ image: images/about.jpg
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Hello! I’m Felix—a product designer with an entrepreneurial background living in London. 
+
+My journey into product design started with discovering the human-centred approach for running a personal training business. 
+
+For over eight years, I have developed a strong interest in behavioural psychology and always intrigued to learn more about people. And this allowed me to excel in balancing customer and business needs. 
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+I’m now looking for an opportunity to join a company with a collaborative design team, and establish myself as a full time designer. 
+
+With my desire to take initiatives and learn on the go, I am eager to get my hands dirty in the whole design process and flourish in this exciting path. 
+
+My north star:
+
+I want to pursue design to create a positive impact for people and change things for the better. 
+
+In my free time:
+
+I enjoy practising Brazilian Ju-Jitsu, bouldering, callisthenics training, travelling to explore new cultures and taste all the food!
 
 *Thank You for reading!*
