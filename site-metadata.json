@@ -16,12 +16,6 @@
             },
             {
                 "type": "action",
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
