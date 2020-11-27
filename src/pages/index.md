@@ -20,7 +20,7 @@ sections:
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     layout_style: mosaic
-    projects_number: 6
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - type: section_grid
