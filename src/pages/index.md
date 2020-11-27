@@ -78,9 +78,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-      - author: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts
