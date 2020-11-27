@@ -1,6 +1,6 @@
 ---
 title: 'Hi, I''m Felix'
-subtitle: This is a short page about us and our work.
+subtitle: ' Hello! I’m Felix—a product designer with an entrepreneurial background living in London. '
 image: images/about.jpg
 template: page
 ---
