@@ -1,6 +1,6 @@
 ---
 title: 'Hi, I''m Felix'
-subtitle: ' Hello! I’m Felix—a product designer with an entrepreneurial background living in London. '
+subtitle: 'a product designer with an entrepreneurial background living in London. '
 image: images/about.jpg
 template: page
 ---
